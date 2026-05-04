@@ -19,8 +19,8 @@ Step 7: Visualize results
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:
+Developed by: KARNAM PAREESH NAIDU
+RegisterNumber:212225230129
 # Import required libraries
 import numpy as np
 import pandas as pd
